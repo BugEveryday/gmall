@@ -8,6 +8,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="dw-chart" />
+        <module name="gmall-canal" />
         <module name="gmall-common" />
         <module name="gmall-logger" />
         <module name="gmall-mocker" />
@@ -18,6 +19,7 @@
     <bytecodeTargetLevel>
       <module name="dw-chart" target="1.8" />
       <module name="gmall" target="1.8" />
+      <module name="gmall-canal" target="1.8" />
       <module name="gmall-common" target="1.8" />
       <module name="gmall-logger" target="1.8" />
       <module name="gmall-mocker" target="1.8" />
