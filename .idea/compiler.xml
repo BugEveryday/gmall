@@ -10,6 +10,7 @@
         <module name="dw-chart" />
         <module name="gmall-canal" />
         <module name="gmall-common" />
+        <module name="gmall-es" />
         <module name="gmall-logger" />
         <module name="gmall-mocker" />
         <module name="gmall-publisher" />
@@ -21,6 +22,7 @@
       <module name="gmall" target="1.8" />
       <module name="gmall-canal" target="1.8" />
       <module name="gmall-common" target="1.8" />
+      <module name="gmall-es" target="1.8" />
       <module name="gmall-logger" target="1.8" />
       <module name="gmall-mocker" target="1.8" />
       <module name="gmall-publisher" target="1.8" />
